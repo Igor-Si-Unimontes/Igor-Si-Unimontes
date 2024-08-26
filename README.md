@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Igor 👋
-Atualmente, sou desenvolvedor WordPress e Elementor. Trabalho com criação de sites há 3 anos e estou cursando Sistemas de Informação na Unimontes. 🖥️
+Atualmente, Trabalho com criação de sites há 3 anos e estou cursando Sistemas de Informação na Unimontes. 🖥️
 
-[![Blog](https://img.shields.io/website?label=igorportfolio&style=for-the-badge&url=https://igorportfolio.kesug.com/)](https://igorportfolio.kesug.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
 https://instagram.com/igor_fernandes22?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 
