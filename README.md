@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Igor 👋
-Atualmente, Trabalho com criação de sites há 3 anos e estou cursando Sistemas de Informação na Unimontes. 🖥️
+Atualmente,sou desenvolvedor full-stack com Laravel, também já trabalhei com criação de sites há 3 anos e estou cursando Sistemas de Informação na Unimontes. 🖥️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
 https://instagram.com/igor_fernandes22?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
