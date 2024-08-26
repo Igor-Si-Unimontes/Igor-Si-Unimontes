@@ -16,14 +16,13 @@ https://instagram.com/igor_fernandes22?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="Livewire" src="https://img.shields.io/badge/Livewire-3B82F6?style=for-the-badge&logo=livewire&logoColor=white"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 ## Tecnologias que estou estudando 🧠
 
 <div style="display: inline-block;">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
 
